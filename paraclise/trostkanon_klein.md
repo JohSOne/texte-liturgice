@@ -10,9 +10,9 @@ Wir singen unserem Gott und Erlöser
 *Allheilige Mutter Gottes, errette uns*
 
 Von vielen Versuchungen bedrängt,  
-ich fliehe nun zu dir und erbitte: erlöse mich,  
+ich flüchte mich zu dir und erbitte: errette mich,  
 o Mutter des Wortes und Jungfrau   
-von aller Not und Bedrängnis erlöse mich.
+von aller Not und Bedrängnis errette mich.
 
 *Allheilige Mutter Gottes, errette uns*
 
