@@ -18,13 +18,13 @@ von aller Not und Bedrängnis erlöse mich.
 
 Der Sturm meiner Laster bedrückt mich,  
 erfüllt auch die Seele mit schwerem und großem Schmerz.  
-Bringe mir Frieden, o Jungfrau,  
-gib mir den Trost deines Sohnes und Gottes.
+Besänftige sie, durch die Sanftmut
+deines Sohnes und Gottes, du Unbefleckte
 
 *Ehre …*
 
 Weil du den Erlöser geboren hast,  
-ich bitte dich, Jungfrau, von aller Not nun errette mich,  
+ich bitte dich, Jungfrau, von großer Trübsal errette mich,  
 bei dir finde ich Zuflucht,  
 und zu dir strebt meine Seele und all mein Geist.
 
@@ -33,4 +33,43 @@ und zu dir strebt meine Seele und all mein Geist.
 Erkrankt an der Seele und auch am Leib,  
 der göttlichen Aufsicht, (und) deiner großen Fürsorge  
 mache mich würdig, einzige Gottesmutter  
-denn du bist gütig als Mutter des Gütigen
+denn du bist gütig als Mutter des Gütigen*
+
+<small>\*denn du bist gütig, Gebärerin des Gütigen.</small>
+
+## 2. Ode
+Die Himmelsgewölbe  
+hast Du erschaffen, mein Herr und Gott  
+und hast Deine Kirche gegründet,  
+stärke Du mich  
+in Deiner Liebe  
+Du Gipfel der Wünsche*  
+Du Stütze der Gläubigen,  
+Du allein Menschenliebender.
+
+<small>\*Du Ziel allen Strebens</small>
+
+*Allheilige Mutter Gottes, errette uns*
+
+Zum Schutze und Schirme  
+meines Lebens bestimm' ich dich,  
+o Gottesmutter und Jungfrau,  
+lenke du mich  
+zu deinem Hafen,  
+du Grund aller Güte,  
+du Stütze der Gläubigen,  
+du allein Hochgepriesene.
+
+*Allheilige Mutter Gottes, errette uns*
+
+Ich flehe dich (an), (o) Jungfrau,  
+mir den Aufruhr der Seele  
+den Sturm meines Kleinmuts  
+ganz zu zerstreuen,  
+denn du, o Gottesbraut,  
+hast den Urquell der Stille  
+Christus geboren*,  
+du allein makellose*.
+
+<small>\*den Messias geboren</small>  
+<small>\*einzig Allreine</small>
