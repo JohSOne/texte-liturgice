@@ -14,6 +14,8 @@ ich fliehe nun zu dir und erbitte: erlöse mich,
 o Mutter des Wortes und Jungfrau   
 von aller Not und Bedrängnis erlöse mich.
 
+*Allheilige Mutter Gottes, errette uns*
+
 Der Sturm meiner Laster bedrückt mich,  
 erfüllt auch die Seele mit schwerem und großem Schmerz.  
 Bringe mir Frieden, o Jungfrau,  
