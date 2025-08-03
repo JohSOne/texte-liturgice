@@ -18,13 +18,13 @@ von aller Not und Bedrängnis erlöse mich.
 
 Der Sturm meiner Laster bedrückt mich,  
 erfüllt auch die Seele mit schwerem und großem Schmerz.  
-Besänftige sie, durch die Sanftmut
+Besänftige sie, durch die Sanftmut  
 deines Sohnes und Gottes, du Unbefleckte
 
 *Ehre …*
 
 Weil du den Erlöser geboren hast,  
-ich bitte dich, Jungfrau, von großer Trübsal errette mich,  
+ich bitte dich, Jungfrau, von Trübsal errette mich,  
 bei dir finde ich Zuflucht,  
 und zu dir strebt meine Seele und all mein Geist.
 
@@ -68,8 +68,5 @@ den Sturm meines Kleinmuts
 ganz zu zerstreuen,  
 denn du, o Gottesbraut,  
 hast den Urquell der Stille  
-Christus geboren*,  
-du allein makellose*.
-
-<small>\*den Messias geboren</small>  
-<small>\*einzig Allreine</small>
+den Messias geboren
+du allein makellose
