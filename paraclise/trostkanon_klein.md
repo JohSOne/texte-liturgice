@@ -68,5 +68,5 @@ den Sturm meines Kleinmuts
 ganz zu zerstreuen,  
 denn du, o Gottesbraut,  
 hast den Urquell der Stille  
-den Messias geboren
+den Messias geboren  
 du allein makellose
