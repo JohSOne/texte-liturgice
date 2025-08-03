@@ -14,20 +14,21 @@ ich fliehe nun zu dir und erbitte: erlöse mich,
 o Mutter des Wortes und Jungfrau   
 von aller Not und Bedrängnis erlöse mich.
 
-Die Last meiner Qualen bedrückt mich,  
+Der Sturm meiner Laster bedrückt mich,  
 erfüllt auch die Seele mit schwerem und großem Schmerz.  
-Erleichtere mich, o reine Jungfrau,  
+Bringe mir Frieden, o Jungfrau,  
 gib mir den Trost deines Sohnes und Gottes.
 
 *Ehre …*
 
-Den Heiland und Gott gebarst du,  
-ich bitte dich Jungfrau, rette nun mich von aller Not,  
-bei dir finde ich Zuflucht, 
-zu dir strebt meine Seele und mein Verstand.
+Weil du den Erlöser geboren hast,  
+ich bitte dich, Jungfrau, von aller Not nun errette mich,  
+bei dir finde ich Zuflucht,  
+und zu dir strebt meine Seele und all mein Geist.
 
 *Wie …*
 
-Gekrängt ist die Seele, erkrankt der Leib,  
-nun mache mich würdig für dein göttliches Heilen, für deine große Fürsorge,
-denn du bist gütig und Mutter des Gütigen.
+Erkrankt an der Seele und auch am Leib,  
+der göttlichen Aufsicht, (und) deiner großen Fürsorge  
+mache mich würdig, einzige Gottesmutter  
+denn du bist gütig als Mutter des Gütigen
