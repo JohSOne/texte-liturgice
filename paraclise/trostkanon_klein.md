@@ -12,13 +12,13 @@ Wir singen unserem Gott und Erlöser
 Von vielen Versuchungen bedrängt,  
 ich flüchte mich zu dir und erbitte: errette mich,  
 o Mutter des Wortes und Jungfrau   
-von aller Not und Bedrängnis errette mich.
+aus aller Not und Bedrängnis befreie mich.
 
 *Allheilige Mutter Gottes, errette uns*
 
-Der Sturm meiner Laster bedrückt mich,  
-erfüllt auch die Seele mit schwerem und großem Schmerz.  
-Besänftige sie, durch die Sanftmut  
+Der Sturm meiner Laster bedrückt mich  
+und erfüllt die Seele mit Trübsal und großem Schmerz.  
+Besänftige ihn, durch die Sanftmut  
 deines Sohnes und Gottes, du Unbefleckte
 
 *Ehre …*
@@ -58,15 +58,37 @@ lenke du mich
 zu deinem Hafen,  
 du Grund aller Güte,  
 du Stütze der Gläubigen,  
-du allein Hochgepriesene.
+du allein hochgelobte.
 
 *Allheilige Mutter Gottes, errette uns*
 
 Ich flehe dich (an), (o) Jungfrau,  
 mir den Aufruhr der Seele  
 den Sturm meines Kleinmuts  
-ganz zu zerstreuen,  
-denn du, o Gottesbraut,  
-hast den Urquell der Stille  
-den Messias geboren  
+ganz zu vertreiben,  
+denn du bist Gottesbraut,  
+da du den Urquell der Stille  
+Christus geboren hast
 du allein makellose
+
+*Ehre...*
+
+Du hast den Wohltäter ﹅geboren  
+den Ursprung des Guten,  
+lasse den Reichtum der Wohltat  
+allen zuströmen,  
+denn du vermagst alles,  
+da du den starken und mächtigen  
+Christus geboren hast,  
+gottselige Jungfrau
+
+*Wie...*
+
+Ich bin in Versuchung  
+durch leidvolle Übel  
+und schwere Erkrankung
+hilf mir, o Jungfrau  
+denn ich erkenne dich  
+unerbittliche Hilfe  
+unerschöpfliche Heilung  
+du all-unbefleckte
