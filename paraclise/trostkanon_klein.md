@@ -68,7 +68,7 @@ den Sturm meines Kleinmuts
 ganz zu vertreiben,  
 denn du bist Gottesbraut,  
 da du den Urquell der Stille  
-Christus geboren hast
+Christus geboren hast  
 du allein makellose
 
 *Ehre...*
@@ -86,7 +86,7 @@ gottselige Jungfrau
 
 Ich bin in Versuchung  
 durch leidvolle Übel  
-und schwere Erkrankung
+und schwere Erkrankung  
 hilf mir, o Jungfrau  
 denn ich erkenne dich  
 unerbittliche Hilfe  
