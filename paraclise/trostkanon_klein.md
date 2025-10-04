@@ -92,3 +92,13 @@ denn ich erkenne dich
 unerbittliche Hilfe  
 unerschöpfliche Heilung  
 du all-unbefleckte
+
+**Troparia**
+
+Errette, aus Gefahren deine Knechte, o Mutter Gottes,
+denn wir alle, nach Gott, suchen Zuflucht bei dir,
+denn du bist feste Burg und sichere Obhut
+
+Blicke gnädig herab, allbesungene Gottesgebärerin, 
+auf die schwere Plage meines Leibes,
+und heile den Schmerz meiner Seele.
