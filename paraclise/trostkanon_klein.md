@@ -67,20 +67,20 @@ mir den Aufruhr der Seele
 den Sturm meines Kleinmuts  
 ganz zu vertreiben,  
 denn du bist Gottesbraut,  
-da du den Urquell der Stille  
-Christus geboren hast  
+du hast den Urquell der Stille  
+Christus geboren  
 du allein makellose
 
 *Ehre...*
 
-Du hast den Wohltäter ﹅geboren  
+Du gebarst den Wohltäter,
 den Ursprung des Guten,  
-lasse den Reichtum der Wohltat  
+lass nun den Reichtum der Wohltat  
 allen zuströmen,  
 denn du vermagst alles,  
-da du den starken und mächtigen  
-Christus geboren hast,  
-gottselige Jungfrau
+du hast den starken und mächtigen  
+Christus geboren,  
+(o) gottselige Jungfrau
 
 *Wie...*
 
