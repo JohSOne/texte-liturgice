@@ -108,6 +108,12 @@ du all-unbefleckte
 
 **Troparia**
 
+<audio controls preload="auto">
+  <source src="/paraclise/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a" type="audio/mpeg" />
+  <!-- fallback for browsers that don't support an audio element -->
+  <a href="/paraclise/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a">Download Audio</a>
+</audio>
+
 Errette, aus Gefahren deine Knechte, o Mutter Gottes,  
 denn wir alle, nach Gott, suchen Zuflucht bei dir,  
 denn du bist feste Burg und sichere Obhut
