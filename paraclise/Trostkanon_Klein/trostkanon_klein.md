@@ -2,13 +2,11 @@
 
 ## 1. Ode
 
-
 <audio controls preload="auto">
   <source src="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a" type="audio/mpeg" />
   <!-- fallback for browsers that don't support an audio element -->
   <a href="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a">Download Audio</a>
 </audio>
-
 
 Das Volk Israel trat auf festem Land,  
 durch die Meeresmitte und entkam aus Ägyptenland,  
@@ -47,6 +45,12 @@ denn du bist gütig als Mutter des Gütigen*
 
 ## 3. Ode
 
+<audio controls preload="auto">
+  <source src="/paraclise/Trostkanon_Klein/assets/Oda%203.m4a" type="audio/mpeg" />
+  <!-- fallback for browsers that don't support an audio element -->
+  <a href="/paraclise/Trostkanon_Klein/assets/Oda%203.m4a">Download Audio</a>
+</audio>
+
 Die Himmelsgewölbe  
 hast Du erschaffen, mein Herr und Gott  
 und hast Deine Kirche gegründet,  
@@ -82,7 +86,8 @@ du allein makellose
 
 *Ehre...*
 
-Du gebarst den Wohltäter, den Ursprung des Guten,  
+Du gebarst den Wohltäter,  
+den Ursprung des Guten,  
 lass nun den Reichtum der Wohltat  
 allen zuströmen,  
 denn du vermagst alles,  
