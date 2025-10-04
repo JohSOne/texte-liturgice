@@ -2,6 +2,12 @@
 
 ## 1. Ode
 
+<audio controls preload="auto">
+  <source src="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a" type="audio/mpeg" />
+  <!-- fallback for browsers that don't support an audio element -->
+  <a href="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a">download audio</a>
+</audio>
+
 Das Volk Israel trat auf festem Land,  
 durch die Meeresmitte und entkam aus Ägyptenland,  
 da rief Israel voller Freude:  
@@ -21,14 +27,14 @@ und erfüllt die Seele mit Trübsal und großem Schmerz.
 Besänftige ihn, durch die Sanftmut  
 deines Sohnes und Gottes, du Unbefleckte
 
-*Ehre …*
+*Ehre …*
 
 Weil du den Erlöser geboren hast,  
 ich bitte dich, Jungfrau, von Trübsal errette mich,  
 bei dir finde ich Zuflucht,  
 und zu dir strebt meine Seele und all mein Geist.
 
-*Wie …*
+*Wie …*
 
 Erkrankt an der Seele und auch am Leib,  
 der göttlichen Aufsicht, (und) deiner großen Fürsorge  
@@ -38,6 +44,7 @@ denn du bist gütig als Mutter des Gütigen*
 <small>\*denn du bist gütig, Gebärerin des Gütigen.</small>
 
 ## 3. Ode
+
 Die Himmelsgewölbe  
 hast Du erschaffen, mein Herr und Gott  
 und hast Deine Kirche gegründet,  
@@ -73,8 +80,7 @@ du allein makellose
 
 *Ehre...*
 
-Du gebarst den Wohltäter,
-den Ursprung des Guten,  
+Du gebarst den Wohltäter, den Ursprung des Guten,  
 lass nun den Reichtum der Wohltat  
 allen zuströmen,  
 denn du vermagst alles,  
