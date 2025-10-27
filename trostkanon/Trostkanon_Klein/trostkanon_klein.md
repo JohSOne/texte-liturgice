@@ -3,9 +3,9 @@
 ## 1. Ode
 
 <audio controls preload="auto">
-  <source src="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a" type="audio/mpeg" />
+  <source src="/trostkanon/Trostkanon_Klein/assets/Oda%201.m4a" type="audio/mpeg" />
   <!-- fallback for browsers that don't support an audio element -->
-  <a href="/paraclise/Trostkanon_Klein/assets/Oda%201.m4a">Download Audio</a>
+  <a href="/trostkanon/Trostkanon_Klein/assets/Oda%201.m4a">Download Audio</a>
 </audio>
 
 Das Volk Israel trat auf festem Land,  
@@ -46,9 +46,9 @@ denn du bist gütig als Mutter des Gütigen*
 ## 3. Ode
 
 <audio controls preload="auto">
-  <source src="/paraclise/Trostkanon_Klein/assets/Oda%203.m4a" type="audio/mpeg" />
+  <source src="/trostkanon/Trostkanon_Klein/assets/Oda%203.m4a" type="audio/mpeg" />
   <!-- fallback for browsers that don't support an audio element -->
-  <a href="/paraclise/Trostkanon_Klein/assets/Oda%203.m4a">Download Audio</a>
+  <a href="/trostkanon/Trostkanon_Klein/assets/Oda%203.m4a">Download Audio</a>
 </audio>
 
 Die Himmelsgewölbe  
@@ -102,16 +102,16 @@ durch leidvolle Übel
 und schwere Erkrankung  
 hilf mir, o Jungfrau  
 denn ich erkenne dich  
-unerbittliche Hilfe  
+unermüdliche Hilfe  
 unerschöpfliche Heilung  
 du all-unbefleckte
 
 **Troparia**
 
 <audio controls preload="auto">
-  <source src="/paraclise/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a" type="audio/mpeg" />
+  <source src="/trostkanon/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a" type="audio/mpeg" />
   <!-- fallback for browsers that don't support an audio element -->
-  <a href="/paraclise/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a">Download Audio</a>
+  <a href="/trostkanon/Trostkanon_Klein/assets/Oda%203%20Tropare.m4a">Download Audio</a>
 </audio>
 
 Errette, aus Gefahren deine Knechte, o Mutter Gottes,  
