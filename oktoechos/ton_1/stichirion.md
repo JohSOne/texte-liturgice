@@ -24,7 +24,7 @@ _Verslieder von Anatolien_
 
 Jauchzet, ihr Himmel!
 Jubelt, ihr Tiefen der Erde!
-Ihr Berge, frohlocket mit Jauchzen!
+Frohlocket, ihr Berge, mit Jauchzen!
 Denn siehe, Emmanuel
 hat unsere Sünden ans Kreuz genagelt
 und Er, der das Leben gibt,
