@@ -12,3 +12,4 @@
 # Intellij
 /.idea
 *.iml
+/.locale
