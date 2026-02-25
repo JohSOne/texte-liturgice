@@ -2,7 +2,7 @@
 Verzicht von Milch und des Gleichen
 
 ## Zum Abendlob
-`Modus 6`
+`Modus VI`
 
 Der Herr, mein Schöpfer, nahm Erde und schuf mich;
 mit dem Odem des Lebens belebte er mich
@@ -50,3 +50,44 @@ O Paradies, nun ist es vorbei mit deiner Wonne;
 ich sehe meinen Herrn, meinen Gott, meinen Schöpfer nicht mehr:
 zur Erde muß ich kehren, daraus ich genommen bin.
 Barmherziger Gott, erbarme dich meiner, denn ich bin gefallen!
+
+## Zur Liti
+
+### Idiomela
+
+`„Ἥλιος ἀκτῖνας ἔκρυψεν…“`
+
+`Modus II`
+
+Die Sonne verbarg ihre Strahlen,
+der Mond samt den Sternen ward zu Blut;
+Berge erschraken, Höhen erbebten,
+da das Paradies verschlossen ward.
+Da ging Adam hinaus
+und schlug mit den Händen sein Angesicht und sprach:
+Barmherziger Gott, erbarme dich meiner, denn ich bin gefallen!
+
+## Zur Aposticha
+
+### Ehre...
+
+`Modus II`
+
+Adam verlor das Paradies um der Speise willen;
+darum saß er ihm gegenüber und klagte, wehschreiend
+mit erbarmungswürdiger Stimme und sprach:
+
+Weh mir, was hab ich, Elender, erlitten!
+Ein Gebot meines Gebieters habe ich übertreten
+und bin alles Guten beraubt.
+
+O hochheiliges Paradies, das um meinetwillen gepflanzt
+und um Evas willen verschlossen ward,
+flehe den an, der dich gemacht und mich gebildet hat,
+dass ich mich sättige an deinen Blüten!
+
+Darum sprach auch der Heiland zu ihm:
+Mein Geschöpf will ich nicht verloren gehen lassen,
+sondern ich will, daß es gerettet werde
+und zur Erkenntnis der Wahrheit komme;
+denn wer zu mir kommt, den werde ich nicht hinausstoßen.
