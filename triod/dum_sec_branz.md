@@ -1,5 +1,5 @@
-# Sonntag zum Gedenken an das Vertreiben Adams vom Paradies
-Verzicht von Milch und des Gleichen
+# Sonntag der Vertreibung Adams aus dem Paradies
+Sonntag der Milchspeise (Käsefastensonntag)
 
 ## Zum Abendlob
 `Modus VI`
@@ -38,7 +38,10 @@ indem wir den Weisungen des Evageliums folgen;
 auf daß wir Christo wohlgefällig werden
 und das Paradies wiederum erlangen.
 
-## Doxastikon (Ton pl. 2) „Ἐκάθισεν Ἀδάμ…“
+## Doxastikon
+`Modus2` 
+
+**„Ἐκάθισεν Ἀδάμ…“**
 
 Da saß Adam vor dem Paradies
 und weinte über seine Blöße:
